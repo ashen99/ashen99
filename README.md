@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <!-- <br><img align="left" width="200" height="200" src="my-octocat.png">
 
 <img src= "https://github-readme-stats.vercel.app/api?username=ashen99&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> -->
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Ashen(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Ashen(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Ashen(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
 <h1 align="center">Hi 👋, I'm Ashen Perera</h1>
 <h3 align="center">A passionate Developer from SriLanka, I am dedicated to pushing the boundaries of technology and creating innovative solutions that address real-world challenges.</h3>
 
