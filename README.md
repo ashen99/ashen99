@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🔭 I work on **Full Stack Development, Mobile App Development, Deep Learning, UI/UX design, Java programming And Machine Learning** 
 
-- 🌱 I’m currently learning **ReactNative,Mobile Development**
+- 🌱 I’m currently learning **ReactNative,Mobile Development,Java Springboot**
 
 - 👨‍💻 All of my projects are available at [https://ashenperera.netlify.app/](https://ashenperera.netlify.app/)
 
