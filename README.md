@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 <img src= "https://github-readme-stats.vercel.app/api?username=ashen99&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> -->
 <h1 align="center">Hi 👋, I'm Ashen Perera</h1>
 <h3 align="center">A passionate Developer from SriLanka, I am dedicated to pushing the boundaries of technology and creating innovative solutions that address real-world challenges.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashen99&label=Profile%20views&color=0e75b6&style=flat" alt="ashen99" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashen99" alt="ashen99" /></a> </p> -->
