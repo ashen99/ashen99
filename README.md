@@ -41,6 +41,6 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 
-![My Skills](https://skillicons.dev/icons?i=java,js,py,react,androidstudio,angular,bootstrap,css,figma,firebase,flask,git,gcp,gradle,html,materialui,mongodb,mysql,nodejs,spring,sqllite,tensorflow,vscode,xd,express)
+![My Skills](https://skillicons.dev/icons?i=java,js,py,react,androidstudio,angular,bootstrap,css,figma,firebase,flask,git,gcp,gradle,html,materialui,mongodb,mysql,nodejs,spring,github,tensorflow,vscode,xd,express)
 
 
